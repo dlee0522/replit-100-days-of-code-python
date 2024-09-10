@@ -1,4 +1,4 @@
-from colorama import Fore
+from colorama import Fore # type: ignore
 import random
 
 FOREGROUND = (Fore.RED, Fore.GREEN, Fore.YELLOW, Fore.BLUE, Fore.MAGENTA, Fore.CYAN)
